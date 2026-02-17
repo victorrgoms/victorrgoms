@@ -18,6 +18,9 @@ Me chamo Paulo Victor de Sousa Gomes, tenho 23 anos e sou de Fortaleza, CE. Atua
   <a href="mailto:paulovictor.pv05@gmail.com">
     <img src="https://img.shields.io/badge/Email-paulovictor.pv05-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://victorgomes-dev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visitar-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
