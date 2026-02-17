@@ -25,7 +25,7 @@ Me chamo Paulo Victor de Sousa Gomes, tenho 23 anos e sou de Fortaleza, CE. Atua
 ## 🧠 O que eu faço
 
 -   🏗️ APIs RESTful & Microsserviços
--   📱 Desenvolvimento Mobile (React Native)
+-   📱 Desenvolvimento Frontend
 -   ⚡ Performance & Mineração de Dados
 -   🧩 Metodologias Ágeis (Scrum)
 -   🔐 Autenticação & Segurança
